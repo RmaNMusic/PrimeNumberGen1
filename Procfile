@@ -1,0 +1,1 @@
+web: node PrimeNumber.js
